@@ -1,0 +1,57 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+button{
+  margin: 5px;
+}
+
+/* SIGN UP */
+
+.signup{
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.signupItems {
+  background-color: #fff;
+  padding: 10px;
+}
+
+.signupField{
+  margin: 10px 0;
+}
+
+/* LOGIN */
+
+.login{
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.loginItems {
+  background-color: #fff;
+  padding: 10px;
+}
+
+
+
+
+
+
